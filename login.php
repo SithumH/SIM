@@ -39,10 +39,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         .btn { width: 100%; padding: 14px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: white; border: none; border-radius: 10px; font-size: 16px; cursor: pointer; font-weight: 600; transition: all 0.3s; }
         .btn:hover { transform: translateY(-2px); box-shadow: 0 5px 20px rgba(16,185,129,0.4); }
         .error { background: #7f1d1d; color: #fca5a5; padding: 12px; border-radius: 10px; margin-bottom: 20px; border: 1px solid #991b1b; font-size: 14px; }
-        .demo-accounts { margin-top: 30px; padding: 20px; background: #1f2937; border-radius: 10px; font-size: 12px; border: 1px solid #374151; }
-        .demo-accounts h3 { font-size: 14px; margin-bottom: 12px; color: #10b981; }
-        .demo-accounts p { margin: 8px 0; color: #9ca3af; }
-        .demo-accounts strong { color: #fff; }
     </style>
 </head>
 <body>
