@@ -66,14 +66,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             
             <button type="submit" class="btn">Login</button>
         </form>
-        
-        <div class="demo-accounts">
-            <h3>Demo Accounts:</h3>
-            <p><strong>Admin:</strong> admin / admin123</p>
-            <p><strong>Staff:</strong> staff / staff123</p>
-            <p><strong>Lecturer:</strong> lecturer / lec123</p>
-            <p><strong>Student:</strong> student / stu123</p>
-        </div>
     </div>
 </body>
 </html>
